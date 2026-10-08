@@ -26,7 +26,7 @@ export default function ContactCTA() {
 
         <p className="mx-auto mt-7 max-w-xl text-base leading-7 text-white/60">
           Have a question or would like to know more about Furaha Executive
-          Residency? We&aposd love to hear from you.
+          Residency? We would love to hear from you.
         </p>
 
 

@@ -54,7 +54,7 @@ export default function LocationSection() {
         {/* Image */}
         <div className="relative aspect-[16/10] overflow-hidden bg-[#F8F7F3] lg:col-span-7">
           <Image
-             src="/images/furaha/exterior.jpeg"
+             src="/images/furaha/exterior.png"
             alt="Location of Furaha Executive Residency in Ihumwa, Dodoma"
             fill
             className="object-cover"

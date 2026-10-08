@@ -20,7 +20,7 @@ export default function Home() {
   <HeroSlider />
 
   {/* Dark overlay */}
-  <div className="absolute inset-0 bg-[#0B1F3A]/65"></div>
+  <div className="absolute inset-0 bg-[#0B1F3A]/45"></div>
 
   {/* Navbar */}
   <Navbar />
@@ -42,7 +42,7 @@ export default function Home() {
       </h1>
 
       <p className="mt-8 max-w-xl text-base leading-7 text-white/75 sm:text-lg">
-        A thoughtfully designed residence where comfort, privacy and
+        A thoughtfully designed apartments where comfort, privacy and
         elegance come together to create a welcoming place to stay.
       </p>
 

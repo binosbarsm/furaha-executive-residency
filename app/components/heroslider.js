@@ -5,15 +5,15 @@ import { useEffect, useState } from "react";
 
 const images = [
   {
-    src: "/images/furaha/hero-1.jpeg",
+    src: "/images/furaha/hero-1.png",
     alt: "Furaha Executive Residency living space",
   },
   {
-    src: "/images/furaha/hero-2.jpeg",
+    src: "/images/furaha/hero-2.png",
     alt: "Furaha Executive Residency bedroom",
   },
   {
-    src: "/images/furaha/hero-3.jpeg",
+    src: "/images/furaha/hero-3.png",
     alt: "Furaha Executive Residency interior",
   },
 ];
